@@ -1,3 +1,4 @@
+pseudo columns
 -rownum
 -rowid
 -sysdate
