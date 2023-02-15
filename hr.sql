@@ -1,7 +1,7 @@
 -rownum
 -rowid
 -sysdate
--systimestamp-
+i-systimestamp-
 -user
 -uid
 currval
@@ -9,7 +9,7 @@ nextval
 level
 
 
-
+srikant is a bad guy,rowdy guy,demon guy.
 
 --sequence
 sequence is a database object which creates sequential numbers with particular interval of time.
@@ -18,6 +18,7 @@ sequence is a database object which creates sequential numbers with particular i
 create sequence s1;
 
 select s1.nextval from dual;
+umesh is a trader.
 select s1.currval from dual;
 
 drop sequence s1;
